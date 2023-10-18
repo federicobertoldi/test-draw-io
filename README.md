@@ -6,6 +6,4 @@ Schema SVG
 
 <a href="https://app.diagrams.net/?libs=general&mode=github#Hfedericobertoldi%2Ftest-draw-io%2Fmain%2Fschema.drawio.svg" target="_blank"><img src="schema.drawio.svg" /></a>
 
-[![Alternative Text](schema.drawio.svg)](schema.drawio.svg)
-
 Vivamus euismod sed diam at vehicula. Aliquam ornare maximus tellus, vitae dignissim odio aliquam nec. Duis non consequat ipsum, ut rutrum felis. Proin sodales nisi eget magna pulvinar faucibus. Fusce a lectus dui. Duis hendrerit tortor libero, eu sagittis est cursus in. Sed pellentesque et nulla id porttitor. Duis eu ipsum augue.
