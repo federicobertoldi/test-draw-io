@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis libero eu ligula tincidunt molestie. In turpis libero, posuere ut scelerisque sed, suscipit sed metus. Integer eleifend ut ante quis faucibus. Aenean sed porttitor mauris. Suspendisse ornare, nunc sit amet eleifend molestie, lorem ex malesuada mi, ut viverra odio eros id enim. Morbi dolor nisl, hendrerit et erat sed, condimentum rutrum ex.
 
-Schema SVG (<a href="https://app.diagrams.net/?libs=general&mode=github#Hfedericobertoldi%2Ftest-draw-io%2Fmain%2Fschema.drawio.svg" target="_blank">edit</a>)
+**Diagram** (<a href="https://app.diagrams.net/?libs=general&mode=github#Hfedericobertoldi%2Ftest-draw-io%2Fmain%2Fschema.drawio.svg" target="_blank">edit</a>)
 
 <a href="https://app.diagrams.net/?lightbox=1&mode=github#Hfedericobertoldi/test-draw-io/main/schema.drawio.svg" target="_blank"><img src="schema.drawio.svg" /></a>
 
