@@ -7,3 +7,5 @@ Schema SVG (<a href="https://app.diagrams.net/?libs=general&mode=github#Hfederic
 ![Diagram](schema.svg)
 
 Vivamus euismod sed diam at vehicula. Aliquam ornare maximus tellus, vitae dignissim odio aliquam nec. Duis non consequat ipsum, ut rutrum felis. Proin sodales nisi eget magna pulvinar faucibus. Fusce a lectus dui. Duis hendrerit tortor libero, eu sagittis est cursus in. Sed pellentesque et nulla id porttitor. Duis eu ipsum augue.
+
+![Diagram](test.drawio.svg)
