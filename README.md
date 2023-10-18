@@ -1,4 +1,4 @@
-# Draw IO / GitHub integration
+# draw.io / GitHub integration
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis libero eu ligula tincidunt molestie. In turpis libero, posuere ut scelerisque sed, suscipit sed metus. Integer eleifend ut ante quis faucibus. Aenean sed porttitor mauris. Suspendisse ornare, nunc sit amet eleifend molestie, lorem ex malesuada mi, ut viverra odio eros id enim. Morbi dolor nisl, hendrerit et erat sed, condimentum rutrum ex.
 
